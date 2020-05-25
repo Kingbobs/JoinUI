@@ -10,8 +10,6 @@ use pocketmine\Player;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
 use pocketmine\event\Listener;
-//use pocketmine\event\player\PlayerPreLoginEvent; - TODO?
-
 use jojoe77777\FormAPI;
 use jojoe77777\FormAPI\SimpleForm;
 
